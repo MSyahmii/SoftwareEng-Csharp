@@ -1,0 +1,10 @@
+C:\Users\Registration\source\repos\GUI-threading\GUI-threading\bin\Debug\GUI-threading.exe.config
+C:\Users\Registration\source\repos\GUI-threading\GUI-threading\bin\Debug\GUI-threading.exe
+C:\Users\Registration\source\repos\GUI-threading\GUI-threading\bin\Debug\GUI-threading.pdb
+C:\Users\Registration\source\repos\GUI-threading\GUI-threading\obj\Debug\GUI-threading.csproj.AssemblyReference.cache
+C:\Users\Registration\source\repos\GUI-threading\GUI-threading\obj\Debug\GUI_threading.Form1.resources
+C:\Users\Registration\source\repos\GUI-threading\GUI-threading\obj\Debug\GUI_threading.Properties.Resources.resources
+C:\Users\Registration\source\repos\GUI-threading\GUI-threading\obj\Debug\GUI-threading.csproj.GenerateResource.cache
+C:\Users\Registration\source\repos\GUI-threading\GUI-threading\obj\Debug\GUI-threading.csproj.CoreCompileInputs.cache
+C:\Users\Registration\source\repos\GUI-threading\GUI-threading\obj\Debug\GUI-threading.exe
+C:\Users\Registration\source\repos\GUI-threading\GUI-threading\obj\Debug\GUI-threading.pdb
